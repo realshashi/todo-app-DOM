@@ -1,0 +1,23 @@
+body {
+background-color: rgb(244, 250, 204);
+}
+
+
+
+
+button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+  input{
+
+    background-color: bisque;
+    font: menu;
+  }
+  
